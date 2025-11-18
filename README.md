@@ -11,7 +11,7 @@ We propose Dual-Visual Dynamic Decoding (DVDD), which adaptively selects and fus
 * sacrebleu version == 1.5.1
 
 # Install fairseq
-You need to load the complete fairseq framework and place the code into the corresponding files before it can run！！！
+You need to load the complete fairseq framework and place the code into the corresponding files before it can run! ! !
 
 ```bash
 cd fairseq_mmt
